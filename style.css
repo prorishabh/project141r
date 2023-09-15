@@ -1,0 +1,48 @@
+body
+{
+    background-position: center;
+    background-size: cover;
+}
+
+.heading
+{
+    width: 100%;
+    text-align: left;
+    margin-bottom: 5px;
+}
+
+.heading h3
+{
+    display: inline;
+    font-size: 22px;
+}
+
+.heading button
+{
+    float: right;
+    border: 1px solid white;
+}
+
+.footer
+{
+    background-color: grey;
+    color: white;
+    line-height: 2;
+    margin-bottom: 0px;
+    bottom: 0px;
+    position: sticky;
+    width: 100%;
+    text-align: center;
+}
+
+.modal-body
+{
+    text-align: center;
+}
+
+canvas
+{
+    border-radius: 10px;
+    box-shadow: 8px 8px 8px red;
+    border: 5px solid lime;
+}
